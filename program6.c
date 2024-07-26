@@ -38,7 +38,7 @@
 //  Description :       It is used to perform addition of 2 floats
 //  Input :             Float, Float
 //  Output :            Float
-//  Author :            Piyush Manohar Khairnar
+//  Author :            Yash Sangole
 //  Date :              15/04/2024
 //
 ////////////////////////////////////////////////////////////////////
