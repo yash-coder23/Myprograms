@@ -6,7 +6,7 @@
 //  Description :   Used to display ticket price based on age 
 //  Input :         Integer
 //  Output :        Integer
-//  Author :        Yash Sangole
+//  Author :        Piyush Manohar Khairnar
 //  Date :          29/04/2024
 //
 /////////////////////////////////////////////////////////////
